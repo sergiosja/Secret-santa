@@ -1,5 +1,4 @@
 # Secret-santa
-Kotlin program to randomly assign your group's santas.
 According to [Wikipedia](https://en.wikipedia.org/wiki/Secret_Santa), "secret santa" is
 > [...] a Western Christmas tradition in which members of a group or community are randomly assigned a person to whom they give a gift. The identity of the gift giver is to remain a secret and should not be revealed.
 >
