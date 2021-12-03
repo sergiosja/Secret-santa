@@ -5,13 +5,13 @@ fun main() {
     val santas: HashMap<String, String> = hashMapOf()
 
     for (i in people.indices) {
-        var halt = true
+        var done = false
 
-        while (halt) {
+        while (!done) {
             val value = people[(0..people.size-1).random()]
             if (people[i] != value && !santas.containsValue(value)) {
                 santas[people[i]] = value
-                halt = false
+                done = true
             }
         }
         
