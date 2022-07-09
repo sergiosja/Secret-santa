@@ -8,4 +8,4 @@ Sounds fun? This program will help you with that. Simply clone the repo and run
 ```
 kotlinc secretsanta.kt && Kotlin SecretsantaKt
 ```
-Now input the names of your group members in the terminal (e.g. sergey birk david ole). This will write four new files, a file for each name, containing a different name. Send the files to the right people and delete them from your computer without looking. Have fun!
+Now input the names of your group members in the terminal (e.g. sergey birk david ole). This will write `n` new files, a file for each name, containing a different name. Send the files to the right people and delete them from your computer without looking. Have fun!
